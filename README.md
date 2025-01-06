@@ -1,3 +1,3 @@
-# PHYS312 - Computer for Physics
+# PHYS312-Computer-for-Physics
 
-2024-2 at POSTECH
+2024-Fall at POSTECH
